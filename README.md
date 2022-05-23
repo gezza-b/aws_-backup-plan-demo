@@ -1,9 +1,11 @@
+# Getting Started With AWS Backup Plan
+
 This demo uses Terraform to demonstrate the implementation of a AWS Backup Plan. The Backup Plan itself will need a Backup Vault where the data can be stored. Backup Vaults can be hosted in any region and for cross-region backups we can use a vault in a different region. The following code creates a Backup Vault in our default region.
 AWS Backup Selection is an easy way to declare which AWS resources will be backed up by which Backup Plan.
 
 Link to the blog post describing the end-to-end approach:
 
-[Getting Started with AWS Backup Plan](https://medium.com/@bachlmayr/getting-started-with-aws-backup-plan-4a572fb1b9d7)
+Blog post: [Getting Started with AWS Backup Plan](https://medium.com/@bachlmayr/getting-started-with-aws-backup-plan-4a572fb1b9d7)
 
 
 
